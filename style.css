@@ -57,23 +57,23 @@ body {
   transform: scale(0.95);
 }
 .tom-3 {
-  background-image: url("images/tom3.png");
+  background-image: url("images/tom-3.png");
 }
 .tom-1 {
-  background-image: url("images/tom1.png");
+  background-image: url("images/tom-1.png");
 }
 .crash {
   background-image: url("images/crash.png");
 }
 .kick-bass {
-  background-image: url("images/kick.png");
+  background-image: url("images/kick-bass.png");
 }
 .snare {
   background-image: url("images/snare.png");
 }
 .tom-2 {
-  background-image: url("images/tom2.png");
+  background-image: url("images/tom-2.png");
 }
 .tom-4 {
-  background-image: url("images/tom4.png");
+  background-image: url("images/tom-4.png");
 }
