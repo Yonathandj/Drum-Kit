@@ -10,6 +10,10 @@ body {
   height: 100vh;
   background-color: #ede9d5;
 }
+::selection {
+  color: none;
+  background: none;
+}
 .title-box {
   width: 80%;
   display: flex;
@@ -28,7 +32,7 @@ body {
   text-shadow: 5px 5px #617143;
 }
 .drum-box {
-  gap: 25px;
+  gap: 28px;
   width: 80%;
   display: flex;
   margin: 0 auto;
