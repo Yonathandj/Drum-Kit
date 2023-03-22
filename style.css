@@ -45,8 +45,8 @@ body {
 }
 .drum {
   width: 150px;
+  border: none;
   height: 150px;
-  padding: 0.5rem;
   font-size: 2rem;
   font-weight: bold;
   border-radius: 5px;
@@ -65,7 +65,7 @@ body {
 .crash {
   background-image: url("images/crash.png");
 }
-.kick {
+.kick-bass {
   background-image: url("images/kick.png");
 }
 .snare {
